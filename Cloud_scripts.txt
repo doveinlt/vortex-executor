@@ -1,0 +1,5 @@
+{
+  "Title": "Ecape Tsunami For Brainrot Script",
+  "script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/main/EscapeTsunamiForBrainrots"))()",
+  "uploaded": "3/6/2026"
+}
